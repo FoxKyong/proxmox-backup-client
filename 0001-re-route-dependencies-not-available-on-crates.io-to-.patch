@@ -37,7 +37,7 @@ index 4b1671ea..086de77a 100644
  hex = "0.4.3"
  hickory-resolver = { version = "0.24.1", default-features = false, features = [ "system-config", "tokio-runtime" ] }
  http-body-util = "0.1"
-@@ -172,163 +172,64 @@ xdg = "2.2"
+@@ -172,164 +172,64 @@ xdg = "2.2"
  zstd = "0.13"
  zstd-safe = "7"
  
@@ -117,6 +117,7 @@ index 4b1671ea..086de77a 100644
 -proxmox-shared-memory.workspace = true
 -proxmox-sortable-macro.workspace = true
 -proxmox-subscription.workspace = true
+-proxmox-syslog-api.workspace = true
 -proxmox-sys = { workspace = true, features = [ "timer" ] }
 -proxmox-systemd.workspace = true
 -proxmox-tfa.workspace = true
