@@ -188,7 +188,8 @@ index 4b1671ea..086de77a 100644
 +proxmox-notify = { path = "../proxmox/proxmox-notify" }
  #proxmox-openid = { path = "../proxmox/proxmox-openid" }
  #proxmox-parallel-handler = { path = "../proxmox/proxmox-parallel-handler" }
- #proxmox-product-config = { path = "../proxmox/proxmox-product-config" }
+-#proxmox-product-config = { path = "../proxmox/proxmox-product-config" }
++proxmox-product-config = { path = "../proxmox/proxmox-product-config" }
 -#proxmox-rate-limiter = { path = "../proxmox/proxmox-rate-limiter" }
 +proxmox-rate-limiter = { path = "../proxmox/proxmox-rate-limiter" }
  #proxmox-rest-server = { path = "../proxmox/proxmox-rest-server" }
